@@ -6,12 +6,12 @@ import 'models/meal.dart';
 const DUMMY_CATEGORIES = const [
   Category(
     id: 'c1',
-    title: 'Italian',
+    title: 'Italian Pizza',
     color: Colors.purple,
   ),
   Category(
     id: 'c2',
-    title: 'Quick & Easy',
+    title: 'Easy & Chunky',
     color: Colors.red,
   ),
   Category(
@@ -21,12 +21,12 @@ const DUMMY_CATEGORIES = const [
   ),
   Category(
     id: 'c4',
-    title: 'German',
+    title: 'Berlin',
     color: Colors.amber,
   ),
   Category(
     id: 'c5',
-    title: 'Light & Lovely',
+    title: 'Light & Cute',
     color: Colors.blue,
   ),
   Category(
@@ -36,7 +36,7 @@ const DUMMY_CATEGORIES = const [
   ),
   Category(
     id: 'c7',
-    title: 'Breakfast',
+    title: 'Small Breakfast',
     color: Colors.lightBlue,
   ),
   Category(
@@ -46,12 +46,12 @@ const DUMMY_CATEGORIES = const [
   ),
   Category(
     id: 'c9',
-    title: 'French',
+    title: 'French Style',
     color: Colors.pink,
   ),
   Category(
     id: 'c10',
-    title: 'Summer',
+    title: 'Summer Snack',
     color: Colors.teal,
   ),
 ];

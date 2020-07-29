@@ -63,13 +63,13 @@ class _FiltersScreenState extends State<FiltersScreen> {
             child: ListView(
               children: [
                 _buildSwitchFilter('Gluten-Free',
-                    'Only include gluten-free meals.', _glutenFree, (newValue) {
+                    'Gluten Free Meals.', _glutenFree, (newValue) {
                   setState(() {
                     _glutenFree = newValue;
                   });
                 }),
                 _buildSwitchFilter(
-                    'Vegetarian', 'Only include Vegetarian meals.', _vegetarian,
+                    'Vegetarian', 'Choose Vegetarian Meal.', _vegetarian,
                     (newValue) {
                   setState(() {
                     _vegetarian = newValue;
