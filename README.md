@@ -24,7 +24,7 @@ G: https://bit.ly/312y8Rc
 Y:
 
 5. Reusable Widgets for upscale project
-G: 
+G: http://gestyy.com/ewGbPU
 Y:
 6. Authentication with Provider
 G: https://bit.ly/2EoEJxL
