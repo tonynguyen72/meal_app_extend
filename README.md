@@ -1,16 +1,42 @@
 # meal_app
 
-A new Flutter project.
+I learnt them from he paid course Max Udemy
+Link for video: https://bit.ly/3f9V46d
 
-## Getting Started
+Other Apps from my github
 
-This project is a starting point for a Flutter application.
+Check my other Apps:(G: github, Y: youtube(will update soon))
 
-A few resources to get you started if this is your first Flutter project:
+1. Shop App => from Max Udemy(high quality content)
+G: https://bit.ly/31em3J9
+Y:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+2. Expenses Tracker => from Max Udemy(high quality content)
+G: https://bit.ly/3hT12dD
+Y:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Meal App => Max Udemy
+G: https://bit.ly/337tvYX
+Y: https://bit.ly/3f9V46d (torrent link)
+
+4. MVVM with Provider => A demo for future scabling app
+G: https://bit.ly/312y8Rc
+Y:
+
+5. Reusable Widgets for upscale project
+G: 
+Y:
+6. Authentication with Provider
+G: https://bit.ly/2EoEJxL
+Y:
+
+7. Authentication with Flutter Bloc
+G: https://bit.ly/2P4ATMv
+Y:
+8. Light Dark with Provider+Hive
+G: https://bit.ly/3jPzaZx
+Y:
+9. Chatapp-realtime
+G: https://bit.ly/3ffV2Kk
+Y:
+
